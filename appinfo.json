@@ -1,0 +1,227 @@
+{
+  "uuid": "f0ab456e-b3dc-4293-9406-bb72f0d457f5",
+  "shortName": "Runechain",
+  "longName": "Runechain",
+  "companyName": "Glenn Loos-Austin",
+  "versionCode": 2,
+  "versionLabel": "2.0.0b7",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "MENU_ICON",
+        "file": "images/menu_icon_rune.png"
+      },
+      {
+        "type": "png",
+        "name": "COLON",
+        "file": "images/colon.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_A0",
+        "file": "images/rune_a0.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_A1",
+        "file": "images/rune_a1.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_A2",
+        "file": "images/rune_a2.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_A3",
+        "file": "images/rune_a3.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_A4",
+        "file": "images/rune_a4.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_A5",
+        "file": "images/rune_a5.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_A6",
+        "file": "images/rune_a6.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_A7",
+        "file": "images/rune_a7.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_A8",
+        "file": "images/rune_a8.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_A9",
+        "file": "images/rune_a9.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_B0",
+        "file": "images/rune_b0.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_B1",
+        "file": "images/rune_b1.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_B2",
+        "file": "images/rune_b2.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_B3",
+        "file": "images/rune_b3.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_B4",
+        "file": "images/rune_b4.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_B5",
+        "file": "images/rune_b5.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_B6",
+        "file": "images/rune_b6.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_B7",
+        "file": "images/rune_b7.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_B8",
+        "file": "images/rune_b8.png"
+      },
+      {
+        "type": "png",
+        "name": "RUNE_B9",
+        "file": "images/rune_b9.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_A0",
+        "file": "images/faint_a0.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_A1",
+        "file": "images/faint_a1.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_A2",
+        "file": "images/faint_a2.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_A3",
+        "file": "images/faint_a3.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_A4",
+        "file": "images/faint_a4.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_A5",
+        "file": "images/faint_a5.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_A6",
+        "file": "images/faint_a6.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_A7",
+        "file": "images/faint_a7.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_A8",
+        "file": "images/faint_a8.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_A9",
+        "file": "images/faint_a9.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_B0",
+        "file": "images/faint_b0.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_B1",
+        "file": "images/faint_b1.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_B2",
+        "file": "images/faint_b2.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_B3",
+        "file": "images/faint_b3.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_B4",
+        "file": "images/faint_b4.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_B5",
+        "file": "images/faint_b5.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_B6",
+        "file": "images/faint_b6.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_B7",
+        "file": "images/faint_b7.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_B8",
+        "file": "images/faint_b8.png"
+      },
+      {
+        "type": "png",
+        "name": "FAINT_B9",
+        "file": "images/faint_b9.png"
+      }
+    ]
+  }
+}
